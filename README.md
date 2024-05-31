@@ -26,7 +26,7 @@ npm start # Start the bare server + serve static files
 ## Support
 Most issues can be answered by [opening an issue](https://github.com/art-class/v4/issues).
 
-You can also join our [Discord server](https://discord.gg/desmos) for more support, or to get links.
+You can also join our [Discord server](https://discord.gg/rhE3yVCr) for more support, or to get links.
 
 ## Contributors
 
