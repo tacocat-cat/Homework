@@ -30,4 +30,4 @@ You can also join our [Discord server](https://discord.gg/desmos) for more suppo
 
 ## Contributors
 
-[![Contrib](https://contrib.rocks/image?repo=art-class/v4#)](https://github.com/art-class/v4/graphs/contributors)
+[![Contrib](https://contrib.rocks/image?repo=art-class/v4#)](https://github.com/tacocat-cat/Homework/contributors)
