@@ -24,4 +24,4 @@ You can also join our [Discord server](https://discord.gg/rhE3yVCr) for more sup
 
 ## Contributors
 
-[![Contrib](https://contrib.rocks/image?repo=art-class/v4#)](https://github.com/tacocat-cat/Homework/contributors)
+[![Contrib](https://contrib.rocks/image?repo=tacocat-cat/Homework#)](https://github.com/tacocat-cat/Homework/contributors)
