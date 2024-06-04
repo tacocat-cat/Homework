@@ -5,18 +5,6 @@ var games = [
     image: 'assets/images/add.png'
   },
   {
-    id: 'idlebreakout',
-    title: 'Idle Breakout',
-    url: 'https://assets.3kh0.net/idle-breakout/index.html/',
-    image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
-  },
-  {
-    id: 'eggycar',
-    title: 'Eggy Car',
-    url: 'https://assets.3kh0.net/eggycar/index.html',
-    image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
-  },
-  {
     id: 'rocketleague',
     title: 'Rocket League',
     url: 'https://cdn.githubraw.com/carbonsystems-dev/gamevault/main/Rocket-League/index.html',
@@ -34,12 +22,6 @@ var games = [
     title: 'Jacksmith',
     url: 'https://art-class.github.io/assets/jacksmith',
     image: 'https://lh3.googleusercontent.com/dJAftLFmxmWdTAEjuolFrtNNAX3D0HjODTm9703CP7JqM_jFgOgPR75d6xqRsYTwoTot'
-  },
-  {
-    id: 'thereisnogame',
-    title: 'There Is No Game',
-    url: 'https://assets.3kh0.net/there-is-no-game/index.html',
-    image: 'https://play-lh.googleusercontent.com/a6DfrYUL6viV0LAZFplqqA44gE0LHE0PyDnKHgdlydiUvccwzSBWrmRQSx5cjdL74Us=w240-h480-rw'
   },
   {
     id: 'fbwg',
@@ -62,29 +44,10 @@ var games = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1200px-Osu%21_Logo_2016.svg.png',
   },
   {
-    id: 'cuttherope',
-    title: 'Cut the Rope',
-    url: 'https://assets.3kh0.net/ctr/index.html',
-    image: 'https://play-lh.googleusercontent.com/8FNcAyLXtQB_0Ux2ZO8VZoEoihL6a5VMBNf6V2lydRM24hXLnNUdlEup1d5miVjl3JY'
-  },
-  {
     id: 'tombofthemask',
     title: 'Tomb of the Mask',
     url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/element@9cccb2fafb569c963501a5d818472b561121cea6/totm.xml',
     image: 'https://play-lh.googleusercontent.com/gTd127I81O2i2Q6kfCJoN-M0OSWmgsdjB47orUFpLwANW7VZLJYrOxMVt-OpilDXszg=w240-h480-rw'
-  },
-  {
-    id: 'backrooms',
-    title: 'Backrooms',
-    description: 'Scary game based on the viral 4Chan post.',
-    url: 'https://assets.3kh0.net/backrooms/index.html',
-    image: 'https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/1:1/w_679,h_679,c_limit/Backrooms-Games.jpg'
-  },
-  {
-    id: 'youarebezos',
-    title: 'You are Bezos',
-    url: 'https://assets.3kh0.net/you-are-bezos/index.html',
-    image: 'https://img.itch.zone/aW1nLzE1NzI2NjIucG5n/original/Equhiy.png'
   },
   {
     id: 'papaburgers',
@@ -105,19 +68,6 @@ var games = [
     image: 'https://img.kbhgames.com/2010/05/Ultimate-Chess.jpg'
   },
   {
-    id: 'jetpackjoyride',
-    title: 'Jetpack Joyride',
-    url: 'https://assets.3kh0.net/jetpack-joyride/index.html',
-    image: 'https://play-lh.googleusercontent.com/Pl2nmu5U9CH3NQqLBTjnokoV325zESrX6KIaHrwSqREEJDWIv1yJpRCXzl9r3oMnEWHC',
-  },
-  {
-    id: 'shellshockers',
-    title: 'Shell Shockers',
-    description: 'Shell Shockers is unique online shooter in first-person perspective where all the characters are represented exclusively by eggs.',
-    url: 'https://assets.3kh0.net/shellshockers/index.html',
-    image: 'https://play-lh.googleusercontent.com/P-nde227L29s8w5U44kTPLiEnMEJUhJpEr4jL6tD6LV65Xz0JZtI4wEyFN-smsNrx-Q'
-  },
-  {
     id: 'plantsvszombies',
     title: 'Plants Versus Zombies 1.0',
     description: 'Plants Versus Zombies 1.0 is a tower defense video game where players strategically plant a variety of plants to fend off waves of zombie invaders.',
@@ -131,66 +81,16 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/SV8RsV5udSeeONjatT5SwleP6lzV6PjtNPs2VvyohJXWSG9fFLNOfslDEHbpDN337wQ'
   },
   {
-    id: 'motox3m',
-    title: 'MotoX3M',
-    //url: 'https://assets.3kh0.net/motox3m/index.html',
-    url: 'https://art-class.github.io/assets/motox3m',
-    image: 'https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo'
-  },
-  {
-    id: 'thefinalearth',
-    title: 'The Final Earth',
-    description: 'Earth has been destroyed. It\'s a good thing you teleported to a new planet, also known as The Final Earth. Gather resources and build a colony',
-    url: 'https://assets.3kh0.net/the-final-earth/index.html',
-    image: 'https://img.itch.zone/aW1nLzIyMTU1NDAucG5n/original/6vGlZe.png'
-  },
-  {
-    id: 'fnf',
-    title: 'Friday Night Funkin',
-    url: 'https://assets.3kh0.net/fridaynightfunkin/index.html',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boyfriend-2.png/250px-Boyfriend-2.png'
-  },
-  {
-    id: 'paperio2',
-    title: 'Paper.io 2',
-    url: 'https://assets.3kh0.net/paperio2/index.html',
-    image: 'https://play-lh.googleusercontent.com/KxcjUrs8S75iOPnKBR2b-s7eGtqbREwLgzttVxaM9Znl5ZxsDCl6qEZHny4rBkMeYA=w240-h480-rw'
-  },
-  {
     id: 'impossiblequiz',
     title: 'The Impossible Quiz',
     url: 'https://proudparrot2.github.io/msg-archive/g_mes/impossiblequiz1/impossiblequiz1/index.html',
     image: 'https://ih1.redbubble.net/image.489460698.9522/st,small,507x507-pad,600x600,f8f8f8.jpg'
   },
   {
-    id: 'ducklife4',
-    title: 'Duck Life 4',
-    url: 'https://assets.3kh0.net/ducklife4/index.html',
-    image: 'https://play-lh.googleusercontent.com/AUGkRrKMtUCLVE9vCvlfMY9Ny9EBqzx17yejVtEEhvpkw-H6lJlvBHgCMqPJm8HV_tM'
-  },
-  {
-    id: 'retrobowl',
-    url: 'https://assets.3kh0.net/retro-bowl/index.html',
-    title: 'Retro Bowl',
-    image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
-  },
-  {
     id: 'littlealchemy',
     title: 'Little Alchemy',
     url: 'https://littlealchemy.com',
     image: 'https://play-lh.googleusercontent.com/-NQ2QLAOaafy7iHAJcrdEFk-tyVicnbwy6iLehml8K0Higi60sSVn0829bcyi1lOUw'
-  },
-  {
-    id: 'templerun2',
-    title: 'Temple Run 2',
-    url: 'https://assets.3kh0.net/temple-run-2/index.html',
-    image: 'https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA'
-  },
-  {
-    id: 'stickmanhook',
-    title: 'Stickman Hook',
-    url: 'https://assets.3kh0.net/stickman-hook/index.html',
-    image: 'https://play-lh.googleusercontent.com/yXqBI1Vb1b-xjwmXLE2T7FQbgHIxfvjze1b6jO2aLHfy8Y8ta7NFSEVqZoPHtM2Ajyrl'
   },
   {
     id: 'run3',
@@ -212,63 +112,6 @@ var games = [
     url: 'https://cdn.githubraw.com/carbonsystems-dev/gamevault/main/Run%202/index.html',
     image: 'https://i.pinimg.com/280x280_RS/b6/2f/e8/b62fe8c6a9ceb9fd7e5257ad25f6897d.jpg',
     description: 'Run 2 is a classic game where you swerve through space in a race to the finish. Play hundreds of new levels in this fast-paced platformer'
-  },
-  {
-    id: 'justfall',
-    title: 'Just Fall',
-    description: 'Just Fall is a game similar to Fall Guys, where you compete in minigames to be the sole winner',
-    url: 'https://assets.3kh0.net/just-fall/index.html',
-    image: 'https://play-lh.googleusercontent.com/-0rSllZ8as88Jcs3iZ7-JCFyTb3YLB-HjR7bY7P6q_2MAswmDH4h1qNPfFiaZqzkkg'
-  },
-  {
-    id: 'sm64',
-    title: 'Super Mario 64',
-    url: 'https://assets.3kh0.net/sm64/index.html',
-    image: 'https://assets1.ignimgs.com/2019/05/31/mario-64---button-1559263987447.jpg',
-    description: 'Controls: <br>Movement: Arrow Keys <br>A: X <br>B: C <br>R: Q <br>Z: Space <br>Start: Enter <br>C-stick: WASD<br><br>You might need to go into fullscreen for the keybinds to register'
-  },
-  {
-    id: 'snowball',
-    title: 'snowball.io',
-    url: 'https://assets.3kh0.net/snowbattle/index.html',
-    image: 'https://play-lh.googleusercontent.com/X8FEOENa_t5mlRllBh2RRLc6sMnPIq56Wxa2ndValDOmwzIRhAv7MG6fT97TLQ2DK48'
-  },
-  {
-    id: 'minecraft',
-    title: 'Minecraft Classic',
-    url: 'https://assets.3kh0.net/minecraft-classic/index.html',
-    image: 'https://cdn.iconscout.com/icon/free/png-256/minecraft-2752120-2284937.png'
-  },
-  {
-    id: 'smashkarts',
-    title: 'Smash Karts',
-    url: 'https://assets.3kh0.net/smashkarts/index.html',
-    image: 'https://geometry-dash.co/upload/imgs/smash-karts-logo.png'
-  },
-  {
-    id: 'tunnelrush',
-    title: 'Tunnel Rush',
-    url: 'https://assets.3kh0.net/tunnel-rush/index.html',
-    image: 'https://images.hellokids.com/_uploads/_tiny_galerie/20180415/vign-tunnel-rush-hk-w8v_u89.jpg',
-  },
-  {
-    id: 'awesometanks2',
-    title: 'Awesome Tanks 2',
-    url: 'https://assets.3kh0.net/awesometanks2/index.html',
-    image: 'https://play-lh.googleusercontent.com/fiH2wSovQkxQ2dQViDAphNBbM0B1dYxTlJqnYwKXeSoQQZbBNkZZuLyMkv4gglb7LH4'
-  },
-  {
-    id: 'fireandice',
-    title: 'A Dance of Fire and Ice',
-    url: 'https://assets.3kh0.net/a-dance-of-fire-and-ice/index.html',
-    image: 'https://play-lh.googleusercontent.com/L8rCly8hMWuP95PbihDZlSV2u0oGrs0hl2lEXboO7XHX2XalJZ1rjgOsFYXnEDWbpQ',
-    description: 'A Dance of Fire and Ice is a simple one-button rhythm game. Press on every beat of the music to move in a line. Every pattern has its own rhythm to it. It can get difficult. This game is purely based on rhythm, so use your ears more than your sight.'
-  },
-  {
-    id: 'escapeprison',
-    title: 'Henry Stickmin: Escaping the Prison',
-    url: 'https://assets.3kh0.net/escapingtheprison/index.html',
-    image: 'https://play-lh.googleusercontent.com/MKW0yzbpA-faDMztP2xkirlXsHwL7QutC_9VyQlbr4VTbPOyCZInL7zYG9EA4XpX4mtM'
   },
   {
     id: 'fleeingthecomplex',
@@ -295,64 +138,10 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/uJn2i9h7KxYQarC_c3K4qH6o7gLtflFnhD_dN14MNkzHJ1NeNFzCL69jpB5mT0vCoQs'
   },
   {
-    id: 'baldisbasics',
-    title: 'Baldi\'s Basics',
-    url: 'https://assets.3kh0.net/baldis-basics/index.html',
-    image: 'https://play-lh.googleusercontent.com/EPV1TB4So1lB0DGrdCVExDpNU8ML67nd8OqBeoOIM-s6sDicxmDdPvCXD6n7LKevFl0'
-  },
-  {
-    id: '1v1lol',
-    title: "1v1.lol",
-    url: 'https://docs-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/ko1ov/to@1e8a949f89fcf2b110640c41a0705db01405d161/d7uf4.xml#',
-    image: 'https://play-lh.googleusercontent.com/-dE43Bqni_bUnq0L-piPxiJG4YiCotk5khMdrQaQBJrXJ3vSgjNeIaKyA34rBvKQSyOy'
-  },
-  {
-    id: 'crossyroad',
-    title: 'Crossy Road',
-    url: 'https://assets.3kh0.net/crossyroad/index.html',
-    image: 'https://cdn.jim-nielsen.com/ios/512/crossy-road-endless-arcade-2014-12-02.png'
-  },
-  {
-    id: 'subwaysurfers',
-    title: 'Subway Surfers',
-    url: 'https://assets.3kh0.net/subway-surfers/index.html',
-    image: 'https://cdnb.artstation.com/p/assets/images/images/040/799/939/large/celine-j-1-74-shanghai-icon-1024-x.jpg?1629908071'
-  },
-  {
-    id: 'geometrydash',
-    title: 'Geometry Dash',
-    url: 'https://assets.3kh0.net/geodash/index.html',
-    image: 'https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG'
-  },
-  {
-    id: 'idlecraft',
-    title: 'Idlecraft',
-    url: 'https://assets.3kh0.net/grindcraft/index.html',
-    image: 'https://play-lh.googleusercontent.com/Pl3YYYdxM1Lhe-pXFwaLfmzSpqDZqlzvxS7-BH60Mho_cydWeOCkhTCrSgtMEXL54Cm0'
-  },
-  {
     id: '8ballpool',
     title: '8 Ball Pool',
     url: 'https://8ball-pool.io',
     image: 'https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag'
-  },
-  {
-    id: 'fruitninja',
-    title: 'Fruit Ninja',
-    url: 'https://assets.3kh0.net/fruitninja/index.html',
-    image: 'https://play-lh.googleusercontent.com/iRlGmvtJ524J-gAGdJJchMv-MH-9AuG80TAx8Rv8q3lObiI7kLVZrEvjVOM-yw3BBH4'
-  },
-  {
-    id: 'bloxors',
-    title: 'Bloxors',
-    url: 'https://assets.3kh0.net/bloxors/index.html',
-    image: 'https://play-lh.googleusercontent.com/FHpA3r3FHDzVNtBpjpi9Zq8JA81bvRXBEbdkBvL3COOucsMfn_fYYhEFE5g55VkeSQ'
-  },
-  {
-    id: 'chromedino',
-    title: "Chrome Dino Game",
-    url: 'https://assets.3kh0.net/chrome-dino/index.html',
-    image: 'https://qph.cf2.quoracdn.net/main-qimg-c803e5912e045867b4e2f033c1b57ff9-lq'
   },
   {
     id: 'doodlejump',
@@ -367,64 +156,10 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA'
   },
   {
-    id: 'basketballstars',
-    title: 'Basketball Stars',
-    url: 'https://assets.3kh0.net/basketball-stars/index.html',
-    image: 'https://play-lh.googleusercontent.com/EjJV6kCXgX9EIhKEtpYhQF8-BUb5En8sDKpOPiWSQJUxv9_RAfl4tMxyIMkQYgeqC6I=w240-h480-rw'
-  },
-  {
-    id: 'amongus',
-    title: 'Among Us',
-    url: 'https://assets.3kh0.net/among-us/index.html',
-    image: 'https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec'
-  },
-  {
-    id: 'rocketleague',
-    title: 'Rocket League',
-    url: 'https://assets.3kh0.net/Rocket-League/index.html',
-    image: 'https://cdn2.iconfinder.com/data/icons/popular-games-1/50/rocketleague_squircle-512.png'
-  },
-  {
     id: 'curveball3d',
     title: 'Curve Ball 3D',
     url: 'https://slopegame.io/curve-.embed',
     image: 'https://play-lh.googleusercontent.com/sTHCFQc1HlSFK2jHNsQOabTeKBvgtugFxnSa_uNLWX2euDE7ohRnJhgCDapOZ0gvxlQ'
-  },
-  {
-    id: 'bitlife',
-    title: 'Bitlife',
-    url: 'https://assets.3kh0.net/bitlife/index.html',
-    image: 'https://d.newsweek.com/en/full/1317374/bitlife-ribbons-how-get-all-complete-list-android-ios-cheats-guide-tips-become.jpg?w=1600&h=1600&q=88&f=75befc746fb83a0c568c44ca07bc5e64'
-  },
-  {
-    id: 'btd4',
-    title: 'Bloons TD 4',
-    url: 'https://assets.3kh0.net/btd4/index.html',
-    image: 'https://assets-prd.ignimgs.com/2022/08/16/bloons-td4-button-1660612386362.jpg'
-  },
-  {
-    id: 'ovo',
-    title: 'OvO',
-    url: 'https://purepro4561.github.io/OvO',
-    image: 'https://play-lh.googleusercontent.com/v7KwGdPjJGjJjRXn46sck4DwDBdKSeRzGN44CjiXUtKV0jjOi51Bt4wcXud0m-SkXg=w240-h480-rw'
-  },
-  {
-    id: 'dogeminer',
-    title: "Doge Miner",
-    url: 'https://assets.3kh0.net/DogeMiner/index.html',
-    image: 'https://play-lh.googleusercontent.com/7diC1RZgf6Z5XCspiwJMYD3vQz5TmjFElLw5qnPJZjcjNXgfhepPJzmIBijgraJRd8uv'
-  },
-  {
-    id: 'aquapark',
-    title: 'aquapark.io',
-    url: 'https://assets.3kh0.net/aquapark-slides/index.html',
-    image: 'https://play-lh.googleusercontent.com/pNI21ILS4I9IAzveYzjbfk5D5LGuL03b0Ea4OtlFRLD_yk7KYLBeLlBmsvhH7Uj-dQn6'
-  },
-  {
-    id: '2048',
-    title: '2048',
-    url: 'https://assets.3kh0.net/2048/index.html',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/220px-2048_logo.svg.png'
   },
   {
     id: 'roblox',
